@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GriffinStirts
 - 👀 I’m interested in ... Software Development and Cybersecurity / Networking
-- 🌱 I’m currently learning ... CompTIA Network+ exams. Recently obtained CompTIA A+ Certification My goal is to learn Cybersecurity and Software development
+- 🌱 I’m currently learning ... CompTIA Security+ exams. Recently obtained CompTIA Network+ Certification. My goal is to learn Cybersecurity and Software development
 - 💞️ I’m looking to collaborate on ... Just learning through hands-on experimentation with a home lab for security learning!
 
 <!---
